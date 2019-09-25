@@ -77,18 +77,33 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
         Leben erwarten?
     -   Wie nur wird diese Zeit bewältigt werden können?
 
-**Offenbarung 17,9-11; 13,18**
+**Offenbarung 17,9-11; 13,18; Jak 1,5.6**
 
 -   Fragen zum Text:
     -   Mit welcher Art von Weisheit lassen sich biblische Symbole
         entschlüsseln?
-    -   Inwiefern kann das nur die göttliche Weisheit sein?
     -   Was symbolisieren die verschiedenen Berge in diesem Text?
     -   Welche Bedeutung hatte in diesem Zusammenhang der siebente Berg
         für das Volk Gottes?
 
-Teil 3: Mission
----------------
+<!-- -->
+
+-   Fragen zur Botschaft:
+    -   Mit welcher Haltung nähern wir uns Gott, wenn wir ihn um
+        Weisheit und Verstehen bitten?
+    -   Warum ist es für uns so wichtig diese seine Botschaft mit ihrer
+        Symbolik zu begreifen?
+
+**Offenbarung 17,12-15; 17,16-18**; **18,4**
+
+-   Fragen zum Text:
+    -   Was ist die Folge davon, wenn die Macht der Zehn Könige sich dem
+        Tier zur Verfügung stellt?
+    -   Von welcher Auseinandersetzung ist hier die Rede?
+    -   Was sind die Wasser, an denen die Buhlerin sitzt?
+-   Fragen zur Botschaft:
+    -   Welche Warnungsbotschaft ergeht an Gottes Volk in Babylon?
+    -   Was sagt dies über den Charakter Gottes aus?
 
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
@@ -96,7 +111,5 @@ unseres Auftrags, Jünger zu machen.
 
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
-
--   ...
 
 <center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>

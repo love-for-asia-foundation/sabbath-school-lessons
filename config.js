@@ -12,7 +12,8 @@ var BIBLE_PARSER_CONFIG = {
 
   "cs": [
     "cep",
-    "kralicka-1613"
+    "kralicka-1613",
+    "csp"
   ],
 
   "da": [
@@ -61,9 +62,17 @@ var BIBLE_PARSER_CONFIG = {
     "nr2006"
   ],
 
-  "lt": [
-    "lit"
+  "ka": [
+    "geo"
   ],
+
+  "lt": [
+    "lit",
+    "ltb",
+    "lbd-eku"
+  ],
+
+  "hi": ["hhbd"],
 
   "he": [
     "em-1865"
@@ -80,6 +89,10 @@ var BIBLE_PARSER_CONFIG = {
     "mb1975"
   ],
 
+  "hy": [
+    "m43"
+  ],
+
   "ja": [
     "kougo-yaku",
     "jlb"
@@ -94,12 +107,21 @@ var BIBLE_PARSER_CONFIG = {
     "alkitab"
   ],
 
+  "is": [
+    "biblian"
+  ],
+
   "ko": [
     "krv"
   ],
 
   "lo": [
     "lb"
+  ],
+
+  "mn": [
+    "ab2013",
+    "ab2004"
   ],
 
   "mk": [
@@ -133,6 +155,12 @@ var BIBLE_PARSER_CONFIG = {
     "rusv"
   ],
 
+  "sl": [
+    "chr",
+    "eku",
+    "ssp"
+  ],
+
   "sr": [
     "biblija"
   ],
@@ -144,6 +172,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "sv": [
     "sf1998"
+  ],
+
+  "sk": [
+    "seb"
   ],
 
   "sw": [
@@ -163,6 +195,13 @@ var BIBLE_PARSER_CONFIG = {
     "ang-biblia"
   ],
 
+  "tl-hil": [
+    {
+      lang: "hil",
+      version: "hil82"
+    }
+  ],
+
   "tr": [
     "kitab"
   ],
@@ -172,11 +211,19 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "zh": [
-    "cuvs"
+    "cuvs",
+    "cuv"
   ],
 
   "vi": [
     "bpt"
+  ],
+  "xh": [
+    "xho75",
+    "xho96"
+  ],
+  "zu": [
+    "zul59"
   ]
 };
 

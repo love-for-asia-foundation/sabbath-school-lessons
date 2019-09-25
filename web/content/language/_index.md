@@ -121,4 +121,31 @@ languages:
   - native: Kiswahili
     en: Swahili
     code: sw
+  - native: Slovenščina
+    en: Slovenian
+    code: sl
+  - native: Монгол хэл
+    en: Mongolian
+    code: mn
+  - native: ქართული ენა
+    en: Georgian
+    code: ka
+  - native: Slovenčina
+    en: Slovak
+    code: sk
+  - native: Íslenska
+    en: Icelandic
+    code: is
+  - native: Հայերեն
+    en: Armenian
+    code: hy
+  - native: IsiZulu
+    en: Zulu
+    code: zu
+  - native: IsiXhosa
+    en: Xhosa
+    code: xh
+  - native: हिन्दी
+    en: Hindi
+    code: hi
 ---

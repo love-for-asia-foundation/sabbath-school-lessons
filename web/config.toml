@@ -363,3 +363,84 @@ title = "Sabbath School"
 	current = "Somo la sasa"
 	archive = "Archive ya Somo"
 	lang = "🇰🇪 Kiswahili"
+
+[params.sl]
+	title = "Sobotna šola"
+	back = "Pojdi nazaj"
+	all = "Oglejte si vse"
+	todaysLesson = "Današnji nauk"
+	current = "Trenutno"
+	archive = "Arhiv"
+	lang = "🇸🇮 Slovenščina"
+
+[params.mn]
+	title = "Шаббат Сургууль"
+	back = "Буцах"
+	all = "Бүгдийг харах"
+	todaysLesson = "Өнөөдрийн хичээл"
+	current = "Одоогийн хичээл"
+	archive = "Хичээл архив"
+	lang = "🇲🇳 Монгол хэл"
+
+[params.ka]
+	title = "დამხმარე სახელმძღვანელო ბიბლიის შესასწავლად"
+	back = "დაბრუნება"
+	all = "ყველა გაკვეთილი"
+	todaysLesson = "მიმდინარე გაკვეთილი"
+	current = "მიმდინარე კვარტალში"
+	archive = "გაკვეთილების არქივი"
+	lang = "🇬🇪 ქართული ენა"
+
+[params.sk]
+	title = "Štúdium Biblie"
+	back = "Vráť sa"
+	all = "Všetky hodiny"
+	todaysLesson = "Dnešná lekcia"
+	current = "Aktuálna lekcia"
+	archive = "Archív lekcie"
+	lang = "🇸🇰 Slovenčina"
+
+[params.is]
+	title = "Biblíulexíur"
+	back = "Farðu til baka"
+	all = "Allar kennslustundir"
+	todaysLesson = "Lærdómurinn í dag"
+	current = "Núverandi kennslustund"
+	archive = "Lexíu skjalasafn"
+	lang = "🇮🇸 Íslenska"
+
+[params.hy]
+	title = "Շաբաթօրյա Դպրոցի Համար"
+	back = "Վերադառնալ"
+	all = "Բոլոր դասերը"
+	todaysLesson = "Այսօրվա դասը"
+	current = "Ընթացիկ դաս"
+	archive = "Դասի արխիվ"
+	lang = "🇦🇲 Հայերեն"
+
+[params.zu]
+	title = "Sesikole Sesabatha"
+	back = "Emuva"
+	all = "Zonke izifundo"
+	todaysLesson = "Isifundo sanamuhla"
+	current = "Isifundo samanje"
+	archive = "Isigcini sesifundo"
+	lang = "🇿🇦 IsiZulu"
+
+[params.xh]
+	title = "Sesabatha Sabantu"
+	back = "Buyela"
+	all = "Zonke izifundo"
+	todaysLesson = "Isifundo sanamhlanje"
+	current = "Isifundo sangoku"
+	archive = "Indawo yokufunda"
+	lang = "🇿🇦 IsiXhosa"
+
+[params.hi]
+	title = "बाइबिल अध्ययन गाइड"
+	back = "वापस"
+	all = "सभी पाठ"
+	todaysLesson = "आज का पाठ"
+	current = "वर्तमान पाठ"
+	archive = "पाठ संग्रह"
+	lang = "🇮🇳 Hindi"
